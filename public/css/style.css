@@ -1,0 +1,15 @@
+Header Area
+#site-header .navbar-brand{
+    color: orange;
+}
+Main Content
+ #main-content .jumbotron{
+    margin: 2.5rem 0;
+}
+
+Layout Footer Area
+#site-footer .copyright{
+    color: #fff;
+    text-transform: capitalize;
+    font-size:1.6rem;
+}
